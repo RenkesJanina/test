@@ -1,0 +1,22 @@
+body {
+    background-image: url("Photo/background/holz.jpg");
+    font-weight: bolder;
+    color: bisque;
+}
+
+nav{
+    background-image: url("Photo/background/blau.jpg");
+    font-weight: bolder;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn btn-primary{
+    background-color: blue;
+}
